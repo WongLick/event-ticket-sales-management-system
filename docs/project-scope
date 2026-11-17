@@ -1,0 +1,19 @@
+Project Scope
+
+System
+Software Bug Reporting and Tracking System for a University Student Portal.
+
+User Groups
+1. End User (Student)
+2. Developer
+3. Administrator
+
+System Features
+1. User registration and login
+2. Bug report submission
+3. View and track bug reports
+4. Edit and delete bug reports
+5. Bug assignment to develoers
+6. Update buy status
+7. User account management
+8. Bug report monitoring
