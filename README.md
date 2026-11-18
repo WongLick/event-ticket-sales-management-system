@@ -1,23 +1,23 @@
-# software-bug-tracking-system
-The Software Bug Reporting and Tracking System is a web-based platform that allows end users to report and track software bugs. Developers can review and resolve reported issues, while administrators manage user accounts and monitor bug reports. The system aims to simplify bug reporting and improve communication.
+# ticket-sales-system
+The Ticket Sales System is a web-based platform that allows users to browse available events, book and purchase tickets, and manage their bookings. Administrators can manage event details, ticket categories, bookings, and monitor ticket sales. The system aims to simplify the ticket purchasing process and improve ticket management.
 
-**Software Bug Reporting and Tracking System**
+**Ticket Sales System**
 
 **About**
-A web-based platform that allows end users to report and track software bugs. Developers can review and resolve reported issues, while administrators manage user accounts and monitor bug reports.
+A web-based platform that allows users to browse upcoming events, view event details, select ticket categories, purchase tickets, and track their bookings. Administrators can manage events, ticket availability, customer bookings, and sales reports.
 
 **User Roles**
-End User: Submit, view, edit, delete and track bug reports.
-Developer: Review, investigate and resolve bug reports.
-Admin: Manage user accounts and monitor bug reports.
+User (Customer): Register, log in, browse events, view event details, select tickets, make bookings, manage payments, receive e-tickets, and view booking history.
+Admin: Manage user accounts, add, edit and delete events, manage ticket categories and prices, monitor bookings and payment statuses, and generate sales reports.
 
 **Project Objectives**
-Simplify the bug reporting process.
-Improve communication between users and developers.
-Make bug tracking and management more organised.
+Simplify the event ticket purchasing and booking process.
+Provide users with convenient access to event information and ticket availability.
+Improve the management of events, tickets, and customer bookings.
+Help administrators monitor ticket sales and generate sales reports.
 
 **Project Status**
-Currently in development.
+Currently in the planning and system analysis phase.
 
 **Technologies Used**
 To be updated.
