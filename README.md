@@ -21,3 +21,6 @@ Currently in the planning and system analysis phase.
 
 **Technologies Used**
 To be updated.
+
+**References**
+https://www.abacademies.org/articles/case-study--systems-analysis-design-and-development-case-study-medallion-theater--ticket-sales-system-6509.html
