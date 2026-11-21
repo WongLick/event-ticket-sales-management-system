@@ -1,5 +1,10 @@
 Problem Statement
 
-1. Users struggle to report software bugs through an organised platform
-2. Tracking reported bugs and their resolution status can be difficult
-3. Communication between users and developers may be inefficient
+1. Duplicate Ticket Sales
+Due to the lack of a digital ticket management system, administrators may accidentally overlook seat availability, resulting in the same seat being sold to multiple customers.
+
+2. Poor Booking Record Management
+Without a centralized database, administrators may overlook or forget advance booking requests, leading to missed reservations and booking management issues.
+
+3. Inconsistent Ticket Management Procedures
+Different administrators may use different methods to record and manage ticket bookings, resulting in inconsistent records, miscommunication, and errors in ticket sales.
