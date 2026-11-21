@@ -1,19 +1,22 @@
 Project Scope
 
 System
-Software Bug Reporting and Tracking System for a University Student Portal.
+Event Ticket Sales Management System for a Theather Ticket Office.
 
 User Groups
-1. End User (Student)
-2. Developer
-3. Administrator
+1. Patron (User)
+2. Administrator
 
 System Features
-1. User registration and login
-2. Bug report submission
-3. View and track bug reports
-4. Edit and delete bug reports
-5. Bug assignment to develoers
-6. Update buy status
-7. User account management
-8. Bug report monitoring
+1. User registration and login.
+2. Browse available theatre events.
+3. View event details and schedules.
+4. View available ticket categories and prices.
+5. Select and book tickets.
+6. Purchase tickets and update payment status.
+7. View and manage booking history.
+8. Receive and download e-tickets.
+9. User account management.
+10. Event and ticket management (Administrator).
+11. Booking and payment monitoring (Administrator).
+12. Generate ticket sales reports (Administrator).
