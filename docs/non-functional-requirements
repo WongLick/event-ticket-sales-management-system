@@ -1,16 +1,16 @@
 Non-Functional Requirements
 
 Usability
-The system should have a simple and user-friendly interface.
+The system should have a simple and user-friendly interface that is easy to navigate.
 
 Security
-The system should protect user accounts and information.
+The system should protect user accounts and personal information from unauthorized access.
 
 Performance 
-The system should respond to user requests quickly.
+The system should respond to user requests quickly and efficiently.
 
 Reliability
-The system should store bug reports accurately.
+The system should store ticket and booking details accurately and consistently.
 
 Availability
-The system should be accessible whenever users need it.
+The system should be accessible whenever users need to browse events and manage their bookings.
