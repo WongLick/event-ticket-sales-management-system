@@ -1,10 +1,19 @@
 Functional Requirements
-1. The system shall allow users to register and log in.
-2. The system shall allow end users to submit bug reports.
-3. The system shall allow end users to view and track their bug reports.
-4. The system shall allow end users to edit and delete their own reports.
-5. The system shall allow developers to view and investigate bug reports.
-6. The system shall allow developers to update bug status. 
-7. The system shall allow administrators to manage user accounts.
-8. The system shall allow administartors to assign bug reports to developers. 
-9. The system shall allow administrators to monitor all bug reports.
+
+The system shall allow:
+
+Patron (User)
+1. Patrons to register and log in to the system.
+2. Patrons to browse theatre events and view ticket details.
+3. Patrons to book and purchase theatre tickets.
+4. Patrons to update their user profile details.
+5. Patrons to view upcoming bookings and booking history.
+6. Patrons to cancel bookings (subject to booking conditions).
+
+Administrator
+7. Administrators to manage theatre event details (add, edit, and delete).
+8. Administrators to manage ticket categories, prices, and seat availability.
+9. Administrators to view and manage customer bookings.
+10. Administrators to monitor ticket sales and payment statuses.
+11. Administrators to manage patron accounts.
+12. Administrators to generate ticket sales reports.
